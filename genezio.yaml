@@ -12,6 +12,6 @@ nextjs:
   packageManager: npm
   # Scripts are running in the specified `path` directory.
   scripts:
-  # List of scripts to run before deploying the backend.
+    # List of scripts to run before deploying the backend.
     deploy:
-        - npm install
+      - npm install
